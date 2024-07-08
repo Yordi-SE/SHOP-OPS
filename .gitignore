@@ -1,0 +1,14 @@
+# Flutter build files
+frontend/build/
+frontend/.dart_tool/
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+frontend/.packages
+frontend/.pub-cache/
+frontend/.pub/
+frontend/.idea/
+frontend/.vscode/
+
+# Node.js modules and environment files
+backend/node_modules/
+backend/.env
