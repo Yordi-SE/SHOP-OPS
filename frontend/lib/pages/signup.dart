@@ -58,7 +58,7 @@ class SignUpPage extends StatelessWidget {
               SizedBox(height: 20),
               ElevatedButton(
                 onPressed: () {
-                  // Implement sign up logic
+              
                 },
                 child: Center(child: Text('REGISTER')),
               ),
